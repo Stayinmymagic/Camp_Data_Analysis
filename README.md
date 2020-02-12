@@ -9,7 +9,7 @@
 
 
 ### Methods Used
-* Inferential Statistics
+* Inferential Statistics 
 * Descriptive Statistics
 * Data Visualization
 * Predictive Modeling
@@ -18,9 +18,6 @@
 * Python
 * MSSql
 * Spyder
-* HTML
-* C#
-* ASP.NET
 
 ### library
 
@@ -38,49 +35,9 @@ import sklearn.metrics
 * 處理缺失值
 * 藉由回歸分析預估員工在每項工序會花費的時間
 
-2  寫線性規劃建立最佳化工作分配模式。
-
-3. 將運算模式與資料庫放上伺服器，並使用C#與ASP.NET，把運算模式製成API，串接APP。
-
-4. App  Inventor製作此系統供工廠主管使用。
-
-## Needs of this project
-
-- frontend developers
-- data exploration/descriptive statistics
-- data processing/cleaning
-- statistical modeling
-- writeup/reporting
+2. 設計整數線性規劃建立最佳化工作分配模式。
 
 
-## Getting Started
-
-1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. Raw Data is being kept [here](Repo folder containing raw data) within this repo.
-
-    *If using offline data mention that and how they may obtain the data from the froup)*
-    
-3. Data processing/transformation scripts are being kept [here](Repo folder containing data processing scripts/notebooks)
-4. etc...
-
-*If your project is well underway and setup is fairly complicated (ie. requires installation of many packages) create another "setup.md" file and link to it here*  
-
-5. Follow setup [instructions](Link to file)
-
-## Featured Notebooks/Analysis/Deliverables
-* [Notebook/Markdown/Slide Deck Title](link)
-* [Notebook/Markdown/Slide DeckTitle](link)
-* [Blog Post](link)
 
 
-## Contributing DSWG Members
-
-**Team Leads : [劉家蓁]**
-
-#### Other Members:
-
-|Name     |  Slack Handle   | 
-|---------|-----------------|
-|[李霈]  
-|[李欣諭]
 
