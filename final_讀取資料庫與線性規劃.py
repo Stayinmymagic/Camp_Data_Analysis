@@ -11,7 +11,7 @@ import pymssql
 #    user=r'companydomain\username',
 #    password=PASSWORD,
 #    database='DatabaseOfInterest')
-conn = pymssql.connect(host="127.0.0.1", user="root",password="lisa80213",database="final",charset="utf8mb4") 
+conn = pymssql.connect(host="********", user="root",password="l******",database="final",charset="utf8mb4") 
 # 得到一個可以執行SQL語句的光標對象
 cursor = conn.cursor()
 # 定義要執行的SQL語句
