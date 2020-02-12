@@ -4,7 +4,6 @@ from sklearn.linear_model import LinearRegression
 import sklearn.metrics as metrics
 
 #要先建立大表
-#好像可以先用excel做好
 df_final = pd.read_excel("final.xlsx")
 #做階層式資料表
 df_final2 = df_final.groupby([df_final['款號名稱'],df_final['工序名稱']]).mean()
@@ -117,7 +116,7 @@ for x in range(len(name)):
         
         
     
-###1226如果係數<0，必須刪除欄與列
+###如果係數<0，必須刪除欄與列
         time2T = pd_time.T
         time2T_list = list(time2T.iloc[0])
         need_del_work = []
